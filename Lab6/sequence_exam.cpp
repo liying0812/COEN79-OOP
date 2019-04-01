@@ -9,7 +9,7 @@
 // Maximum number of points awarded by this program is determined by the
 // constants POINTS[1], POINTS[2]...
 
-/*
+
  
  #include <iostream>     // Provides cout.
  #include <cstdlib>      // Provides size_t.
@@ -731,5 +731,5 @@
  
  }
  
- */
+
 
