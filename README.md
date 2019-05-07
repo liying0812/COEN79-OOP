@@ -1,2 +1,2 @@
-# COEN79-OOP
-Lab assignments for COEN79
+# Object-Oriented Programming C++
+
