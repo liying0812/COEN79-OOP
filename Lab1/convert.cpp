@@ -1,4 +1,3 @@
-// "This is git command test"
 //  convert.cpp
 //  Lab1
 //
